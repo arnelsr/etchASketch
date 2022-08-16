@@ -46,10 +46,10 @@ function drawSquares(squares) {
             //flexbox display
             div.style.display = 'flex';
             //border solid
-            div.style.borderStyle='solid';
+            //div.style.borderStyle='solid';
             //border color black
-            div.style.borderColor='black'
-            //10x10
+            //div.style.borderColor='black'
+            
             //div.style.width='30px'
             //div.style.height='30px'
             div.style.width=widthpx;
